@@ -25,7 +25,7 @@ Understand and implement text preprocessing techniques, including:
        -> pip install nltk spacy
    ## Text Classification
 # Objective
-      Classify text data into predefined categories.
+Classify text data into predefined categories.
 
 1. Experiments
       Sentiment Analysis: Using Naive Bayes and Support Vector Machines (SVM).
@@ -37,5 +37,5 @@ Understand and implement text preprocessing techniques, including:
    ->  numpy
    ->  nltk
 3. You can install them using pip module:
-            -> pip install pip install sklearn pandas numpy nltk
+      pip install sklearn pandas numpy nltk
 
