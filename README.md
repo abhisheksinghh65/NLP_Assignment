@@ -23,3 +23,19 @@ Understand and implement text preprocessing techniques, including:
      ->spacy
    a) You can install using 'pip' module
        -> pip install nltk spacy
+   ## Text Classification
+# Objective
+      Classify text data into predefined categories.
+
+1. Experiments
+      Sentiment Analysis: Using Naive Bayes and Support Vector Machines (SVM).
+      Spam Detection: Using logistic regression and decision trees.
+2. Required Libraries
+      This project requires the following Python libraries:
+   -> sklearn
+   -> pandas
+   ->  numpy
+   ->  nltk
+3. You can install them using pip module:
+            -> pip install pip install sklearn pandas numpy nltk
+
