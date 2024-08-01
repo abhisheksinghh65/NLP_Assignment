@@ -2,7 +2,7 @@
 
 ## NLP Assignment: Text Preprocessing
 
-##Objective
+# Objective
 Understand and implement text preprocessing techniques, including:
 
 1. Tokenization
