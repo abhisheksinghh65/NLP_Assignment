@@ -23,7 +23,7 @@ Understand and implement text preprocessing techniques, including:
      ->spacy
    a) You can install using 'pip' module
        -> pip install nltk spacy
-   ## Text Classification
+   ## NLP ASSIGNMENT: Text Classification
 # Objective
 Classify text data into predefined categories.
 
