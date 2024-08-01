@@ -37,5 +37,5 @@ Classify text data into predefined categories.
    ->  numpy
    ->  nltk
 3. You can install them using pip module:
-      pip install sklearn pandas numpy nltk
+                 pip install sklearn pandas numpy nltk
 
